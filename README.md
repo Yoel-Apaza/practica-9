@@ -38,4 +38,4 @@ Este proyecto es una aplicación de consola en Python para gestionar el inventar
 
 
 
-link de stramlit: http://192.168.1.4:8502
+link de stramlit: https://practica-9-a8nmrepzg8ugynnm5wd7kt.streamlit.app/
